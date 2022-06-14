@@ -1,0 +1,64 @@
+{
+  "products": [
+        {
+          "id": 0,
+          "imageUrl": "./img/new_img/IMG20220609155430_01",
+          "name": "Арка",
+          "types": [0, 1],
+          "sizes": [26, 30, 40],
+          "price": 3803,
+          "category": 0,
+          "rating": 4
+        },
+        {
+          "id": 1,
+          "imageUrl": "./img/new_img/IMG20220609155900_01",
+          "name": "Беседка 'Богатырь'",
+          "types": [0],
+          "sizes": [26, 40],
+          "price": 20250,
+          "category": 1,
+          "rating": 6
+        },
+        {
+          "id": 2,
+          "imageUrl": "./img/new_img/IMG20220609160454_01.jpg",
+          "name": "TG 40",
+          "types": [0],
+          "sizes": [26, 40],
+          "price": 29500,
+          "category": 1,
+          "rating": 4
+        },
+        {
+          "id": 3,
+          "imageUrl": "./img/new_img/IMG20220609160502_01.jpg",
+          "name": "K 200",
+          "types": [1],
+          "sizes": [26, 30, 40],
+          "price": 27500,
+          "category": 2,
+          "rating": 2
+        },
+        {
+          "id": 4,
+          "imageUrl": "./img/new_img/IMG20220609160529_01.jpg",
+          "name": "Евроцемент 400",
+          "types": [0, 1],
+          "sizes": [26, 30, 40],
+          "price": 15500,
+          "category": 3,
+          "rating": 8
+        },
+        {
+          "id": 5,
+          "imageUrl": "./img/new_img/IMG20220609160551.jpg",
+          "name": "EK 3000",
+          "types": [0],
+          "sizes": [30, 40],
+          "price": 5800,
+          "category": 2,
+          "rating": 2
+        }
+  ]
+}
