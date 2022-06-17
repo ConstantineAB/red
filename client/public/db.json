@@ -2,18 +2,18 @@
   "products": [
         {
           "id": 0,
-          "imageUrl": "./img/new_img/IMG20220609155430_01",
+          "imageUrl": "./img/Product_img/ark.jpg",
           "name": "Арка",
           "types": [0, 1],
           "sizes": [26, 30, 40],
-          "price": 3803,
+          "price": 13803,
           "category": 0,
           "rating": 4
         },
         {
           "id": 1,
-          "imageUrl": "./img/new_img/IMG20220609155900_01",
-          "name": "Беседка 'Богатырь'",
+          "imageUrl": "./img/Product_img/400.jpg",
+          "name": "евроцемент 400",
           "types": [0],
           "sizes": [26, 40],
           "price": 20250,
@@ -22,38 +22,38 @@
         },
         {
           "id": 2,
-          "imageUrl": "./img/new_img/IMG20220609160454_01.jpg",
-          "name": "TG 40",
+          "imageUrl": "./img/Product_img/big_bes.jpg",
+          "name": "Беседка 'Богатырь'",
           "types": [0],
           "sizes": [26, 40],
-          "price": 29500,
+          "price": 150500,
           "category": 1,
           "rating": 4
         },
         {
           "id": 3,
-          "imageUrl": "./img/new_img/IMG20220609160502_01.jpg",
-          "name": "K 200",
+          "imageUrl": "./img/Product_img/ek-3000.jpg",
+          "name": "ek-3000",
           "types": [1],
           "sizes": [26, 30, 40],
-          "price": 27500,
+          "price": 2500,
           "category": 2,
           "rating": 2
         },
         {
           "id": 4,
-          "imageUrl": "./img/new_img/IMG20220609160529_01.jpg",
-          "name": "Евроцемент 400",
+          "imageUrl": "./img/Product_img/k-200.jpg",
+          "name": "k-200",
           "types": [0, 1],
           "sizes": [26, 30, 40],
-          "price": 15500,
+          "price": 1500,
           "category": 3,
           "rating": 8
         },
         {
           "id": 5,
-          "imageUrl": "./img/new_img/IMG20220609160551.jpg",
-          "name": "EK 3000",
+          "imageUrl": "./img/Product_img/tg-40.jpg",
+          "name": "tg-40",
           "types": [0],
           "sizes": [30, 40],
           "price": 5800,
@@ -62,3 +62,4 @@
         }
   ]
 }
+
